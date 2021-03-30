@@ -1,0 +1,7 @@
+D:\C# Studies\LearnSomeShit\RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.exe.config
+D:\C# Studies\LearnSomeShit\RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.exe
+D:\C# Studies\LearnSomeShit\RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.pdb
+D:\C# Studies\LearnSomeShit\RecursiveFunction\RecursiveFunction\obj\Debug\RecursiveFunction.csprojAssemblyReference.cache
+D:\C# Studies\LearnSomeShit\RecursiveFunction\RecursiveFunction\obj\Debug\RecursiveFunction.csproj.CoreCompileInputs.cache
+D:\C# Studies\LearnSomeShit\RecursiveFunction\RecursiveFunction\obj\Debug\RecursiveFunction.exe
+D:\C# Studies\LearnSomeShit\RecursiveFunction\RecursiveFunction\obj\Debug\RecursiveFunction.pdb
